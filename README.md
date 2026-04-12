@@ -1,4 +1,4 @@
-# simple-inventory-management-system
+# simple-procurement-inventory-management-system
 📦 Simple Inventory Management System (Python)
 A beginner–intermediate Python project that demonstrates how to build a console‑based inventory management system using dictionaries, functions, and a menu‑driven interface.
 This project is perfect for learning:
